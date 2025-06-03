@@ -1,0 +1,40 @@
+h1, h2, h3{  /* changes font size and style of these three elements*/
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+/*form*/
+form input{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(44, 214, 10);
+    border-radius: 5px;
+    display: table;
+}
+
+textarea{ /*moves text area in the center*/
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(44, 214, 10);
+    border-radius: 5px;
+    display: table;
+}
+
+
+label{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+
+/*footer*/
+
+footer{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+
